@@ -1,0 +1,4 @@
+src/config.ts
+src/assets/**/*
+src/content/posts/**/*
+src/content/spec/about.md
