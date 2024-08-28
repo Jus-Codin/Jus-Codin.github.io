@@ -1,4 +1,6 @@
 src/config.ts
+src/assests/*
 src/assets/**/*
+src/content/posts/*
 src/content/posts/**/*
 src/content/spec/about.md
